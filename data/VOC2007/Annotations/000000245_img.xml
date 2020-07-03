@@ -1,0 +1,26 @@
+<annotation>
+	<folder>crop</folder>
+	<filename>000000245_img.jpeg</filename>
+	<path>D:\drivedata\1457-070320\crop\000000245_img.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>400</width>
+		<height>400</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>on</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>180</xmin>
+			<ymin>248</ymin>
+			<xmax>212</xmax>
+			<ymax>279</ymax>
+		</bndbox>
+	</object>
+</annotation>
