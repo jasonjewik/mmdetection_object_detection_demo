@@ -1,7 +1,7 @@
 <annotation>
 	<folder>crop</folder>
-	<filename>000000243_img.jpeg</filename>
-	<path>D:\drivedata\1457-070320\crop\000000243_img.jpeg</path>
+	<filename>000000243_img.jpg</filename>
+	<path>D:\drivedata\1457-070320\crop\000000243_img.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>178</xmin>
+			<xmin>175</xmin>
 			<ymin>247</ymin>
-			<xmax>216</xmax>
-			<ymax>280</ymax>
+			<xmax>213</xmax>
+			<ymax>279</ymax>
 		</bndbox>
 	</object>
 </annotation>
